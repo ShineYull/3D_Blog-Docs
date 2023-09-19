@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,d as o}from"./app.33f683f2.js";const u=JSON.parse('{"title":"本地部署","description":"","frontmatter":{},"headers":[],"relativePath":"Folio-2019/install.md","lastUpdated":null}'),r={name:"Folio-2019/install.md"},l=o("",6),n=[l];function s(i,c,_,p,d,f){return a(),t("div",null,n)}const b=e(r,[["render",s]]);export{u as __pageData,b as default};
